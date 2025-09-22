@@ -70,8 +70,11 @@ MONGO_URL="your mongodb uri"
 ## 📌 Notes
 
 Real-time collaboration is powered by Socket.io and WebRTC.
+
 Code execution is handled through JDoodle API integration.
+
 Contribution tracking helps manage team productivity and project insights.
+
 Fully customizable and extendable for new features.
 
 
